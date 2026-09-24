@@ -1,8 +1,9 @@
 {
-  "name": "",
-  "version": "",
-  "description": "",
-  "author": "",
+  "name": "a2-charlesrussell",
+  "version": "1.0.0",
+  "description": "A simple to do list program that takes in the task and the due date",
+  "author": "Charles Russell",
+  "homepage": "",
   "scripts": {
     "start": "node server.js"
   },
